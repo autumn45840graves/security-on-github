@@ -1,13 +1,1 @@
-{
-  "name": "octocat-memory-game",
-  "description": "Memory game with Octocats",
-  "version": "0.0.1",
-  
-  "devDependencies": {
-    "eslint": "^3.8.1"
-  },
-  "engines": {
-    "npm": "2.15.0"
-  },
-  "license": "MIT"
-}
+
